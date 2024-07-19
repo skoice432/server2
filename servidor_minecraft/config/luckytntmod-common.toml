@@ -1,0 +1,19 @@
+
+#TNT Settings
+[Offsets]
+	#Y offset of floating islands
+	#Range: 20 ~ 160
+	islandHeight = 50
+	#Y offset of dropped projectiles
+	#Range: 200 ~ 400
+	dropHeight = 200
+
+#Diaster Settings
+[Disasters]
+	#Maximum duration of disasters in minutes
+	#Range: 2 ~ 24
+	maximumTime = 12
+	#Multiplier to the destructive capabilities of disasters
+	#Range: 1.0 ~ 10.0
+	averageIntensity = 1.0
+
