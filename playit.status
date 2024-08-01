@@ -1,0 +1,997 @@
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
+[2J8[0mplayit (v0.15.13): 1722502351604 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502354708 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502357796 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502360890 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502363991 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502367089 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502370181 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502373271 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502376366 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502379471 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502382564 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502385670 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502388784 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502391898 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502395002 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502398123 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502401218 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502404338 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502407453 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502410571 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502413674 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502416781 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502419875 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502422965 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
+[2J8[0mplayit (v0.15.13): 1722502432172 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502435282 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502438395 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502441487 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502444582 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502447697 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502450801 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502453897 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502456990 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502460114 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502463206 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502466321 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502469432 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502472523 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502475619 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502478719 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502481819 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502484906 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502488010 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502491113 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502494212 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502497301 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502500404 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502503505 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502506616 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502509729 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502512842 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502515940 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502519042 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502522145 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502525249 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502528338 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502531426 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502534513 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502537604 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502540719 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502543820 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502546914 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502550007 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502553096 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502556194 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502559290 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502562392 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502565495 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502568581 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502571674 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502574786 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502577887 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502580989 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502584092 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502587185 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502590281 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502593383 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502596639 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502599741 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502602853 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502605958 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502609062 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502612163 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502615257 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502618364 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502621463 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502624563 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502627665 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502630767 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502633868 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502636968 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502640071 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502643196 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502646297 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502649402 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502652504 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502655606 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502658697 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502661787 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502664872 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502667960 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502671050 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502674139 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502677380 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502680476 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502683583 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502686686 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502689788 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502692892 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502695990 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502699086 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502702186 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502705288 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502708392 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502711499 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502714608 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502717711 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502720811 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502723906 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502727007 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502730107 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502733208 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502736313 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502739414 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502742507 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502745597 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502748687 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502751781 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502754880 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502757979 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502761082 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502764205 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502767308 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502770409 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502773521 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502776611 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
+[2J8[0mplayit (v0.15.13): 1722502785812 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502788913 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502792017 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502795107 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502798201 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502801295 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502804390 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502807495 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502810592 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502813689 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502816794 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
+[2J8[0mplayit (v0.15.13): 1722502825984 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502829090 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502832191 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502835305 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502838402 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502841476 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502844579 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502847681 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502850748 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502853827 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502856930 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502860023 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502863117 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502866192 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502869281 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502872370 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502875439 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502878509 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502881604 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502884681 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502887787 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502890889 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502893963 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502897046 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502900146 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502903248 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502906338 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502909436 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502912527 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502915619 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502918721 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502921825 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502924930 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502928005 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502931108 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502934212 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502937304 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502940403 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502943474 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502946542 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502949634 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502952705 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502955807 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502958880 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502961947 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502965015 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502968084 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502971191 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502974289 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722502977390 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+disease-crisis.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
